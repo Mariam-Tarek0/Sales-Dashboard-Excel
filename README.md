@@ -46,4 +46,4 @@ All tables are connected through relationships in Excel’s **Data Model**.
 
 
 ## Dashboard Preview
-Screenshot of dashboard here ![Sales Dashboard Screenshot](Sales Dashboard.jpg)
+Screenshot of dashboard here ![Sales Dashboard Screenshot]("Sales_Dashboard.jpg")
